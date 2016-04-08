@@ -1,1 +1,2 @@
-# myastro
+initialising the project..
+Myastro
